@@ -3,9 +3,9 @@ function add() {
   return 
 }
 
-function subtract() {
+function subtract(n) {
  
- return  
+ return  number *= n
 }
 
 function multiply(n) {
