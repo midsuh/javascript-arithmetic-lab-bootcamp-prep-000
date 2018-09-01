@@ -20,7 +20,7 @@ function divide() {
 
 function inc(n) {
   
-  return 
+  return n -= n
 }
 
 function dec(n) {
