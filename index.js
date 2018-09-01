@@ -10,7 +10,7 @@ function subtract() {
 
 function multiply() {
   
-  return 
+  return number *=
 }
 
 function divide(n) {
