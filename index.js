@@ -1,21 +1,21 @@
-function add(n) {
+function add(a, b) {
   
-  return number += n
+  return a + b
 }
 
-function subtract(n) {
+function subtract(a,b) {
  
- return  number *= n
+ return  a - b
 }
 
-function multiply(n) {
+function multiply(a,b) {
   
-  return number *= n
+  return a * b
 }
 
-function divide(n) {
+function divide(a,b) {
   
-  return n /= 5 
+  return a / b
 }
 
 function inc(n) {
