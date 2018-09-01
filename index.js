@@ -13,9 +13,9 @@ function multiply() {
   return 
 }
 
-function divide() {
+function divide(n) {
   
-  return 
+  return n /= 5 
 }
 
 function inc(n) {
