@@ -8,9 +8,9 @@ function subtract() {
  return  
 }
 
-function multiply() {
+function multiply(n) {
   
-  return number *=
+  return number *= n
 }
 
 function divide(n) {
