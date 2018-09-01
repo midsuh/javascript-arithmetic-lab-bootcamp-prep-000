@@ -19,4 +19,7 @@ function inc(n) {
   
 }
 
-function 
+function dec(n) {
+  
+  
+}
