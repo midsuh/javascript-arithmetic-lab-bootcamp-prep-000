@@ -28,3 +28,8 @@ function makeInt(n) {
   
   
 }
+
+function preserveDecimal(n) {
+  
+  
+}
