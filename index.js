@@ -14,3 +14,9 @@ function divide() {
   
 }
 
+function inc(n) {
+  
+  
+}
+
+function 
