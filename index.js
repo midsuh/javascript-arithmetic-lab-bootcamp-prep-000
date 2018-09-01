@@ -1,6 +1,6 @@
-function add() {
+function add(n) {
   
-  return 
+  return number += n
 }
 
 function subtract(n) {
